@@ -6,7 +6,7 @@ An online calculator with basic arithmetic operations built using HTML, CSS and 
 
 [Start Demo](https://frootpunchsamurai.github.io/top-calculator/)
 
-## Clone this repository
+## Clone this repository :
 
 `https://github.com/FrootPunchSamurai/top-calculator.git`
 
