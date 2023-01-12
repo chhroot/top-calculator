@@ -4,7 +4,7 @@ An online calculator with basic arithmetic operations built using HTML, CSS and 
 
 ## :point_down: Live preview:
 
-[Start Demo](https://frootpunchsamurai.github.io/top-calculator/)
+[Start Demo](https://chhroot.github.io/top-calculator/)
 
 ## Clone this repository :
 
