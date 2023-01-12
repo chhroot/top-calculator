@@ -8,7 +8,7 @@ An online calculator with basic arithmetic operations built using HTML, CSS and 
 
 ## Clone this repository :
 
-`https://github.com/FrootPunchSamurai/top-calculator.git`
+`https://github.com/chhroot/top-calculator.git`
 
 
 
